@@ -1,0 +1,6 @@
+﻿  main.cpp
+  isogram.cpp
+d:\documents\visual studio\cpp\isogramgame\isogramgame\isogram.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  IsogramGame.vcxproj -> D:\Documents\Visual Studio\CPP\IsogramGame\Debug\IsogramGame.exe
+  IsogramGame.vcxproj -> D:\Documents\Visual Studio\CPP\IsogramGame\Debug\IsogramGame.pdb (Partial PDB)
